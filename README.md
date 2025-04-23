@@ -1,2 +1,2 @@
 # Superstore-Sales-Analysis-Dashboard
-Superstore Sales Analysis
+This repository contains a PDF dashboard analyzing Superstore's sales performance from 2015 to 2018. It includes visualizations such as sales trends over time, sales by product category, top sub-categories, customer segments, regional sales, and top 5 products. The dashboard highlights key insights, including strong growth in Technology sales and seasonal patterns.
